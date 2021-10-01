@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarnevaleMNO
 - 👀 I’m interested in hiking/pizza and my dog.
-- 🌱 I’m currently learning back-end development.
+- 🌱 I’m currently learning full-stack development with MERN.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... carnevalemno@gmail.com
 
