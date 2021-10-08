@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarnevaleMNO
-- 👀 I’m interested learning.
+- 👀 I’m interested in learning.
 - 🌱 I’m currently learning full-stack development with MERN.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... carnevalemno@gmail.com
