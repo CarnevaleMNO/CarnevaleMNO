@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarnevaleMNO
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning full-stack development with MERN.
+- 🌱 I’m currently learning frontend development with React/Next.js/Remix.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... carnevalemno@gmail.com
 
